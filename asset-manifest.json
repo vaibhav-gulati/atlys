@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/atlys/static/css/main.3d5684de.css",
-    "main.js": "/atlys/static/js/main.21759bd9.js",
+    "main.js": "/atlys/static/js/main.d461930d.js",
     "static/js/453.6836548e.chunk.js": "/atlys/static/js/453.6836548e.chunk.js",
     "index.html": "/atlys/index.html",
     "main.3d5684de.css.map": "/atlys/static/css/main.3d5684de.css.map",
-    "main.21759bd9.js.map": "/atlys/static/js/main.21759bd9.js.map",
+    "main.d461930d.js.map": "/atlys/static/js/main.d461930d.js.map",
     "453.6836548e.chunk.js.map": "/atlys/static/js/453.6836548e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d5684de.css",
-    "static/js/main.21759bd9.js"
+    "static/js/main.d461930d.js"
   ]
 }
