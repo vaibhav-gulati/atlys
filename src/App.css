@@ -1,0 +1,31 @@
+.App {
+  min-height: 100vh;
+  background-color: #f9fafb;
+}
+
+/* Fix icon alignment issues */
+.action-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.action-button svg {
+  vertical-align: middle;
+}
+
+.toolbar-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.publish-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.publish-button svg {
+  vertical-align: middle;
+}
